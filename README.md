@@ -1,4 +1,4 @@
-# my-app
+# shop-manage
 
 ## Project setup
 ```
