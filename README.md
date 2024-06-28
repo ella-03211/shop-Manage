@@ -1,2 +1,24 @@
-# shop-Manage
-本项目是一个通用后台管理系统，采用vue2开发前端，脚手架cli管理项目，采用mock模拟后台数据，采用axios发出请求和接收请求。后台管理登录模块分为两个角色，超级管理员和用户。
+# my-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
